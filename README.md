@@ -89,9 +89,11 @@ $ python3 arp_spoof.py
 2. Download AdvancedHMI.
 3. Replace the copy the files from the AdvancedHMI folder from this repository into your local ~\AdvancedHMIv399xR1\AdvancedHMI\ folder (replace the ones already in there).
 4. Open the AdvancedHMI project file in Visual Studio.
-5. Click on the ModbusTCPConnection object (at the bottom of the main design window).
-6. In the properties section change the IP to the IP of your centrifuge workstation. 
-7. Click the green play button at the top to run it. 
+5. Click on "Build" on the Visual Studio menu ribbon at the top to build the project.
+6. Click on the MainForm.vb page from the right menu to open up the layout designer.
+7. Click on the ModbusTCPConnection object (at the bottom of the main design window).
+8. In the properties section change the IP to the IP of your centrifuge workstation. 
+9. Click the green play button at the top to run it. 
 
 ## Setup Malicious Commands
 1. Update the IP for the workstation hosting your centrifuge server.
