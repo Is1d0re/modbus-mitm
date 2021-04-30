@@ -1,5 +1,9 @@
 # MODBUS MitM
 
+Setup files used in the demonstration outlined at [my blog post](https://blog.is1d0re.com/blog/modbus-mitm)
+
+
+
 ## Setup Fake Server
 
 On a linux attacker workstation:
